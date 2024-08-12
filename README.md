@@ -1,2 +1,16 @@
-# Ai-Voice-assistant-app-Allen-
-**AI VoiceMate** is a sleek and intuitive voice assistant app built with Flutter, powered by GPT and DALL·E. It enables natural conversations, offering intelligent responses and image generation based on user descriptions. With a clean, user-friendly interface, AI VoiceMate makes interacting with advanced AI simple and efficient.
+# allen
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
